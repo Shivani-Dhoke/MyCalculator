@@ -47,3 +47,18 @@
     background-color: gray;
     cursor: pointer;;
 }
+.acbtn{
+    background-color: brown;
+    color: white;
+}
+.acbtn:hover{
+    background-color: rgb(168, 52, 52);
+}
+
+.opbtn{
+    background-color: gray;
+    color: black;
+}
+.opbtn:hover{
+    background-color: rgb(196, 193, 193);
+}
